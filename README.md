@@ -50,3 +50,4 @@ export default tseslint.config({
 ```
 # ReactTS-ShadCN-Ultimate-Boilerplate
 # ReactTS-ShadCN-Ultimate-Boilerplate
+# ReactTS-ShadCN-Ultimate-Boilerplate
