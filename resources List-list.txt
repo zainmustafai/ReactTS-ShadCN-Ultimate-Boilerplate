@@ -1,0 +1,63 @@
+shadcn , swc, swr, rrd ,
+zod, hook form, axios,
+framer-motion
+lodash for debouncing 
+aos animate on scroll
+swiper for carousels
+react spring for parallax effects.
+
+DEV DEPENDENCIES:
+Commitizen for git commit messages
+
+
+RESOURCES:
+//https://zippystarter.com/docs/getting-started/installation
+//https://gradient.page/tools/shadcn-ui-theme-generator
+//https://gradient.page/css/ui-gradients
+//https://gradient.page/css/text-gradient
+
+
+==========================================><====================================================================
+Finding the right UI/UX design inspiration can significantly impact the creativity and effectiveness of your web design projects. Here are ten popular websites known for their excellent collections of UI/UX design inspiration:
+
+### 1. **Behance**
+   - **URL:** [Behance](https://www.behance.net/)
+   - **Description:** A platform where designers showcase their work. You can find a wide range of UI/UX design projects from professionals around the world.
+
+### 2. **Dribbble**
+   - **URL:** [Dribbble](https://dribbble.com/)
+   - **Description:** A community of designers sharing screenshots of their work, including web design, app design, and UI elements.
+
+### 3. **Awwwards**
+   - **URL:** [Awwwards](https://www.awwwards.com/)
+   - **Description:** Recognizes and promotes the best in web design, creativity, and innovation. It features award-winning designs and allows you to filter by categories like design, usability, and content.
+
+### 4. **SiteInspire**
+   - **URL:** [SiteInspire](https://www.siteinspire.com/)
+   - **Description:** A showcase of the best web design, including a variety of styles and industries. You can filter by style, type, and subject.
+
+### 5. **Webflow Showcase**
+   - **URL:** [Webflow Showcase](https://webflow.com/discover)
+   - **Description:** Features a collection of Webflow-built websites showcasing different design styles and interactions.
+
+### 6. **Muzli**
+   - **URL:** [Muzli](https://muz.li/)
+   - **Description:** Provides a daily dose of design inspiration from around the web, featuring a mix of UI/UX design, branding, and creative projects.
+
+### 7. **Designer News**
+   - **URL:** [Designer News](https://www.designernews.co/)
+   - **Description:** A community-driven news site where designers share articles, inspiration, and discussions about design trends and techniques.
+
+### 8. **Pttrns**
+   - **URL:** [Pttrns](https://pttrns.com/)
+   - **Description:** Focuses on mobile design patterns and UI examples, making it a valuable resource for app design inspiration.
+
+### 9. **Land-book**
+   - **URL:** [Land-book](https://land-book.com/)
+   - **Description:** A curated collection of the best landing pages and websites, offering inspiration for layouts and design techniques.
+
+### 10. **Collect UI**
+   - **URL:** [Collect UI](https://collectui.com/)
+   - **Description:** Aggregates daily UI/UX design inspiration from around the web, including web and mobile designs, organized by categories.
+
+These sites provide a diverse range of design examples and trends, which can help you get fresh ideas and stay updated on the latest UI/UX design practices.
